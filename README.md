@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning agentic AI and automation.
 - 📫 How to reach me is through linkedin :)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was invited to Jimmy Fallon late night show on the street in New York.
+- ⚡ Fun fact: I was invited to Jimmy Fallon's late night show on the street in New York.
 
 <!---
 lawrencceee/lawrencceee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
