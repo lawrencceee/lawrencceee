@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @lawrencceee
-- 👀 I’m interested in working out, boardgame and funny stuff, also interested in tech like how can it improve people's life.
-- 🌱 I’m currently learning agentic AI and automation.
-- 📫 Feel free to reach out to me via LinkedIn :)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was invited to Jimmy Fallon's late night show on the street in New York.
+👋 Hi, I’m @lawrencceee
+	•	🎯 I’m passionate about building tech that solves real-world problems and improves everyday life.
+	•	🤖 Currently learning about agentic AI, automation, and applying data science to practical use cases.
+	•	💡 I’ve built projects including an OpenAI-powered Q&A chatbot, a Notion automation agent, and a churn prediction model.
+	•	📊 Exploring the intersection of AI, business, and analytics—with hands-on skills in Python, SQL, and Power BI.
+	•	🧩 Outside of work, I’m into music, sports, board games, and all things quirky or fun.
+	•	⚡ Fun fact: I was once invited to The Tonight Show with Jimmy Fallon on the street in NYC!
 
 <!---
 lawrencceee/lawrencceee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
